@@ -10,9 +10,9 @@ This type of a problem is referred to as Binomial Logistic Regression, where the
 
 Results:
 
-Without Regularization
+Without Regularization<br/>
 Accuracy : ~90.0
 <br/>
-With Regularization
+With Regularization<br/>
 Accuracy : ~96.0
 
