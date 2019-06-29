@@ -8,3 +8,10 @@ Python Implementation of Logistic Regression for Binary Classification from Scra
 E.g. When we have to predict if a student passes or fails in an exam when the number of hours spent studying is given as a feature, the response variable has two values, pass and fail.
 This type of a problem is referred to as Binomial Logistic Regression, where the response variable has two values 0 and 1 or pass and fail or true and false. Multinomial Logistic Regression deals with situations where the response variable can have three or more possible values.
 
+Results:
+
+Without Regularization
+Accuracy : ~90.0
+With Regularization
+Accuracy : ~96.0
+
