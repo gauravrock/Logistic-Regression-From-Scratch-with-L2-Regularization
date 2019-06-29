@@ -12,6 +12,7 @@ Results:
 
 Without Regularization
 Accuracy : ~90.0
+<br/>
 With Regularization
 Accuracy : ~96.0
 
