@@ -11,8 +11,8 @@ This type of a problem is referred to as Binomial Logistic Regression, where the
 Results:
 
 Without Regularization<br/>
-Accuracy : ~90.0
+Accuracy : ~90.0%
 <br/>
 With Regularization<br/>
-Accuracy : ~96.0
+Accuracy : ~96.0%
 
